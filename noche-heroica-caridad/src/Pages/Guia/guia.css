@@ -15,3 +15,10 @@
     font-size: 1.5rem;
     border-bottom: 1px solid white;
 }
+
+.oracionInicialTituloFondo span{
+    font-weight: 500;
+    opacity: 0.9;
+    font-size: 1.5rem;
+    color: #E5BA73;
+}
