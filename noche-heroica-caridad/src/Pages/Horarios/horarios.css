@@ -1,0 +1,33 @@
+.horariosTitulo{
+    font-weight: 600;
+    --bs-text-opacity: 0.9;
+    font-size: 3rem;
+    border-bottom: 2px solid white;
+}
+
+.personasGrupos{
+    font-size: 2rem;
+    color: #E5BA73;
+}
+
+.grupoTitulo{
+    font-weight: 400;
+    --bs-text-opacity: 0.9;
+    font-size: 2rem;
+    background-color: rgba(250, 248, 241, 0.8);
+    width: 100%;
+    color: #E5BA73;
+}
+
+.horariosGruposTexto{
+    color: #E5BA73;
+    font-size: 1rem;
+}
+
+.horarioJuntos{
+    font-weight: 600;
+}
+
+.horarioSeparados{
+    font-weight: 300;
+}

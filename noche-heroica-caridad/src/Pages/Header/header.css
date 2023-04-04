@@ -1,0 +1,36 @@
+.headerPrincipal{
+    background-color: #FAF8F1;
+    font-size: 1rem;
+    border-bottom: 4px solid #E5BA73;
+}
+
+
+.header-link{
+    color: #8b8b8b;
+}
+
+.header-link:hover{
+    color: #E5BA73;
+    font-size: 1.07rem;
+}
+
+@media (min-width: 992px) {   
+
+    .logoNavBar{
+        width: 10%;
+    }
+}
+
+@media (max-width: 576px) { 
+    
+    .logoNavBar{
+        width: 30%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 992px) {   
+
+    .logoNavBar{
+        width: 15%;
+    }
+}

@@ -1,0 +1,70 @@
+body{
+    background: url(./fondo.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.tituloPortada{
+    font-weight: 600;
+    --bs-text-opacity: 0.9;
+    font-size: 4rem;
+    line-height: 3rem;
+}
+
+.heroicaTexto{
+    font-weight: 600;
+    --bs-text-opacity: 0.9;
+    font-size: 4rem;
+    line-height: 3rem;
+    border-bottom: 2px solid white;
+}
+
+.oracionPortada{
+    font-weight: 400;
+    --bs-text-opacity: 1;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.oracionPortada b {
+    font-weight: 600;
+}
+
+.divExplicacion{
+    background-color: #FAF8F1;
+    border-top: 5px solid #E5BA73;
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.tituloPregunta{
+    color: #C58940;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid rgba(198, 169, 133, 0.5);
+}
+
+.numeroDeGraciaObtenida{
+    color: #C58940;
+    font-size: 2rem;
+}
+
+.textoGraciaObtenida{
+    border: 1px solid #C58940;
+}
+
+.botonGris{
+    opacity: 0.9;
+}
+
+.btn{
+    background-color: #E5BA73;
+    color: #FAF8F1;
+    width: 40%;
+    font-size: 1.5rem;
+}
+
+.textoBotones{
+    font-weight: 300;
+    color: white;
+    font-size: 1.3rem;
+}
