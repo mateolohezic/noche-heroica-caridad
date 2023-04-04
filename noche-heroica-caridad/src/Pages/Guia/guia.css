@@ -1,0 +1,17 @@
+.oracionInicialGuia{
+    font-weight: 300;
+    --bs-text-opacity: 1;
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+.oracionInicialGuia b {
+    font-weight: 500;
+}
+
+.oracionInicialTitulo span{
+    font-weight: 500;
+    opacity: 0.9;
+    font-size: 1.5rem;
+    border-bottom: 1px solid white;
+}
