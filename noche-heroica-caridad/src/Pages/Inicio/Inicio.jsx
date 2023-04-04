@@ -4,7 +4,7 @@ import PortadaInicio from '../../Components/PortadaInicio/PortadaInicio'
 function Inicio() {
   return (
     <>
-    <div class="bg-image"></div>
+    <div className="bg-image"></div>
     <PortadaInicio/>
     </>
   )
