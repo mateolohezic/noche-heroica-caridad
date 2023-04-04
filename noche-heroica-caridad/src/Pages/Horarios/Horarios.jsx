@@ -4,6 +4,7 @@ import './horarios.css'
 function Horarios() {
   return (
     <>
+    <div class="bg-image"></div>
     <div className='w-100 m-0'>
       <div className='pe-4 pt-5 text-end'>
         <span className='horariosTitulo text-light'>
