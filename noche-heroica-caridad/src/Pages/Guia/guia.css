@@ -22,3 +22,104 @@
     font-size: 1.5rem;
     color: #E5BA73;
 }
+
+.tituloRosario{
+    background-color: #FAF8F1;
+    border: 7px solid #E5BA73;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.tituloRosario h1{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.tituloRosario p{
+    margin-top: 1rem;
+    font-weight: 500;
+    font-size: 0.8rem;
+    line-height: 1rem;
+}
+
+.holaaaa{
+    padding-bottom: 100rem;
+}
+
+.cardMisterio{
+    background-color: #FAF8F1;
+    border: 2px solid #E5BA73;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.cardImagenDiv{
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 80%;
+}
+
+.cardTituloDiv{
+    width: 90%;
+    margin: auto;
+    color: #E5BA73;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 2.2rem;
+}
+
+.cardTextoDiv{
+    padding: 2rem;
+    color: black;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+.cardCancion{
+    background-color: #FAF8F1;
+    width: 85%;
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    box-shadow: -1px -2px 52px 15px rgba(0,0,0,0.42);
+}
+
+.cardCancionTitulo{
+    color: #E5BA73;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.momentoTitulo span{
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 2rem;
+}
+
+.momentoTitulo{
+    border-top: 2px solid white;
+    padding-top: 3rem;
+    opacity: 0.9;
+}
+
+.momentoSubtitulo span{
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+
+.cuerpoPrimerMomento{
+    font-weight: 300;
+    --bs-text-opacity: 1;
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+.cuerpoPrimerMomento b {
+    font-weight: 600;
+}
