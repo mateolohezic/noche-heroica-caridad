@@ -14,7 +14,7 @@ const Footer = () => {
               <div className="box">
                 <figure>
                   <a href="/" className="logo">
-                    <img src={logo} className='logoFooter2' alt="Logo zona play" />
+                    <img src={logo} className='logoFooter2' alt="Logo" />
                   </a>
                 </figure>
               </div>
@@ -22,7 +22,7 @@ const Footer = () => {
             <div className="box">
               <figure>
                 <a href="/" className="logo">
-                  <img src={logoParroquia} className='logoFooter' alt="Logo zona play" />
+                  <img src={logoParroquia} className='logoFooter' alt="Logo" />
                 </a>
               </figure>
             </div>

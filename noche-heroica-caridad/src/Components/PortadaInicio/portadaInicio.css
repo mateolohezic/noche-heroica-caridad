@@ -1,9 +1,12 @@
-body{
-    background: url(./fondo.png) no-repeat center center fixed;
-    background-size: cover;
-    background-attachment: fixed;
-    width: 100%;
+html, body {
     height: 100%;
+  }
+  
+body {
+background-image: url(./fondo.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
 }
 
 .tituloPortada{
