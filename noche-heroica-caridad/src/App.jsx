@@ -11,6 +11,9 @@ function App() {
 
   return (
   <>
+  <div className='background'>
+
+  </div>
     <Header/>
     <Routes>
       <Route path="/" element={<Inicio />} />
