@@ -44,10 +44,6 @@
     line-height: 1rem;
 }
 
-.holaaaa{
-    padding-bottom: 100rem;
-}
-
 .cardMisterio{
     background-color: #FAF8F1;
     border: 2px solid #E5BA73;
@@ -103,9 +99,9 @@
 }
 
 .momentoTitulo{
-    border-top: 2px solid white;
-    padding-top: 3rem;
+    background-color: rgba(0, 0, 0, 0.5);
     opacity: 0.9;
+    padding: 2rem;
 }
 
 .momentoSubtitulo span{
@@ -122,4 +118,26 @@
 
 .cuerpoPrimerMomento b {
     font-weight: 600;
+}
+
+.tituloIglesiaVisita{
+    color: #E5BA73;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.padrenuestros{
+    color: black;
+    opacity: 0.7;
+    font-weight: 300;
+}
+
+.charlaTitulo{
+    color: #E5BA73;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.charlaTitulo span{
+    font-weight: 500;
 }

@@ -19,10 +19,16 @@
     .logoNavBar{
         width: 10%;
     }
+    .logoParroquia{
+        width: 35%;
+    }
 }
 
 @media (max-width: 576px) { 
     
+    .logoParroquia{
+        width: 100%;
+    }
     .logoNavBar{
         width: 30%;
     }
@@ -30,6 +36,9 @@
 
 @media (min-width: 576px) and (max-width: 992px) {   
 
+    .logoParroquia{
+        width: 45%;
+    }
     .logoNavBar{
         width: 15%;
     }
