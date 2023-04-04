@@ -43,7 +43,7 @@ function Visitas() {
             <div><span className='tituloIglesiaVisita'>Meditación</span></div><div className='mt-2'>Aquí Jesús tiene que oír cómo se tergiversan sus doctrinas. Cómo se aducen falsos testimonios en su contra. Cómo se le reta a proclamar que es Hijo de Dios, pero sin intención de reconocerle. Cómo Pedro niega conocerle. Cómo lo declaran reo de muerte.</div>
             <div className='mt-4'><span className='tituloIglesiaVisita'>Oración</span></div><div className='mt-2'>Jesús, tú eres la verdad y se amontonan mentiras para callarte. Has dicho: "la verdad los hará libres" pero tienes que ver cómo la mentira nos esclaviza. Has dicho: "ustedes son mis amigos" y con qué facilidad te negamos. En ti somos hijos de Dios y qué pobreza la de nuestra vida. Te compadecemos, Jesús, por esas traiciones y te pedimos la gracia de ser tus testigos valientes, fieles a tu amor.</div>
             <div className='padrenuestros mt-4'>Se rezan 3 Padrenuestros</div>
-        <div className='padrenuestros mt-4'>Se rezan 3 Padrenuestros</div></div>
+        </div>
       </div>
       <div className='cardMisterio rounded-5'>
         <div className='cardImagenDiv'><img src={cuarto} className='img-fluid rounded-4 w-100'/></div>
