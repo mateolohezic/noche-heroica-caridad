@@ -18,6 +18,16 @@ function Guia() {
         <b>Amén.</b>
         </span>
       </div>
+      <div className='pt-4 ps-3 pe-3 mt-4 mb-5 text-center'>
+        <div className='oracionInicialTitulo text-light mb-3'><span>Visita al santísimo</span></div>
+        <span className='oracionInicialGuia text-light'>
+        <b>Se reza 3 veces:</b><br/><br/>
+        G: Bendito y alabado sea Jesús en el Santísimo Sacramento del altar.<br/>
+        R: Sea por siempre bendito y alabado
+        <br/><br/>
+        Padre Nuestro, Ave María, Gloria.
+        </span>
+      </div>
 
 
 
