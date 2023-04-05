@@ -17,11 +17,11 @@ function PortadaInicio() {
         </div>
         <div className='text-center'>
             <div><span className='textoBotones'>¡Sigue nuestro horario! <i className="bi bi-stopwatch"></i></span></div>
-            <div className='mt-3'><a href='/Horarios' className='text-decoration-none'><button type="button" className="btn botonGris me-3">HORARIOS</button></a></div>
+            <div className='mt-3'><a href='/Horarios' className='text-decoration-none btnLink'><button type="button" className="btn botonGris me-3">HORARIOS</button></a></div>
         </div>
         <div className='text-center mt-5'>
         <div><span className='textoBotones'>¡Vívelo con nosotros! <i className="bi bi-book"></i></span></div>
-            <div className='mt-3'><a href='/Guia' className='text-decoration-none'><button type="button" className="btn botonGris me-3">GUÍA</button></a></div>
+            <div className='mt-3'><a href='/Guia' className='text-decoration-none btnLink'><button type="button" className="btn botonGris me-3">GUÍA</button></a></div>
         </div>
         <div className='pt-4 divExplicacion rounded-2'>
             <div className='oracionPortada text-center'><span className='tituloPregunta'>¿Por qué en la noche?</span></div>

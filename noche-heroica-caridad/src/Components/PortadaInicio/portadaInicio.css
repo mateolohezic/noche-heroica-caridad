@@ -65,8 +65,23 @@
     opacity: 0.9;
 }
 
+.btnLink{
+    color: #FAF8F1;
+}
+
+.btnLink:hover{
+    color: #FAF8F1;
+}
+
 .btn{
     background-color: #E5BA73;
+    color: #FAF8F1;
+    width: 40%;
+    font-size: 1.5rem;
+}
+
+.btn:hover{
+    background-color: #C58940;
     color: #FAF8F1;
     width: 40%;
     font-size: 1.5rem;
