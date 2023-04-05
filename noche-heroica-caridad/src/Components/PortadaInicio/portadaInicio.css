@@ -16,7 +16,7 @@
     --bs-text-opacity: 0.9;
     font-size: 4rem;
     line-height: 3rem;
-    filter: drop-shadow(-16px -8px 9px #000);
+    filter: drop-shadow(-3px -3px 6px #000);
 }
 
 .heroicaTexto{
